@@ -1,0 +1,49 @@
+Evaluation Warning: The document was created with Spire.PDF for .NET.
+NORTHWELL HEALTH
+
+Northwell Imaging at Glen Cove
+10 Medical Plaza - Suite 106
+Glen Cove, New York 11542
+Phone: 
+Fax:
+An Extension of Glen Cove Hospital
+
+Patient: i, As
+MRN: 56736
+EPI #:
+Pt Class: OUTPATIENT
+
+ACC: 57363740
+EXAM: XR BONE DENSITY AXIAL
+
+PROCEDURE DATE: 06/29/2022
+
+INTERPRETATION:
+CLINICAL INDICATION: 81-year-old male patient for evaluation of bone mineralization. Screening for creme.
+
+Thank you for referring your patient for bone densitometry on the HOLOGIC machine. The results are expressed as a T-score, or the standard deviation from the mean young normal value, which is the basis for the WHO diagnostic criteria for bone density.
+
+COMPARISON: None.
+
+RESULTS:
+Spine: 1.2, normal.
+Femoral neck: Right -2.0, osteopenia.
+Total hip: Right -2.3, osteopenia.
+
+IMPRESSION: Osteopenia.
+
+FRACTURE RISK: Using the FRAX 10 year fracture risk calculator, the patient's ten-year risk of any fracture is 9.4% and the patient's risk of hip fracture is 3.9%. Additional risk factors used in the FRAX calculation: None.
+
+TREATMENT RECOMMENDATIONS: Based on NOF treatment guidelines, medical therapy is recommended at this time. All treatment decisions require clinical judgment and consideration of individual patient factors, including patient preferences, comorbidities, previous drug use, risk factors not captured in the FRAX model (e.g. frailty, falls, Vitamin D deficiency, increased bone turnover, interval significant decline in bone density) and possible under or over estimation of fracture risk by FRAX.
+
+In addition, the NOF Guide recommends that FDA-approved medical therapies be considered in postmenopausal women and men age >= 50 years with a:
+• Hip or vertebral (clinical or morphometric) fracture,
+• T-score of <=-2.5 at the spine or hip,
+• 10 years fracture probability by FRAX of >= 3.0% for hip fracture or >= 20% for major osteoporotic fracture.
+
+FOLLOW-UP: A repeat examination is recommended in 2 years.
+
+--- End of Report ---
+
+Attending Radiologist
+This document has been electronically signed, Jun 29 2022 9:10AM

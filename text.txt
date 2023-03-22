@@ -1,0 +1,101 @@
+aluation Warning : The document was created with Spire.PDF for .NET.
+' ij
+| NORTHWELL HEALTH
+| a aaa
+tl .
+Northwell imaging at Glen Cove
+i Mi
+10 Medical Plaza - Suite 106 rg a. York 11542 Phone: TY Fox:
+An Extension of Glen Cove Hospital
+| |
+|
+i | ; Patient: i, As
+L, AKA: SS, MIs
+| MRE: 56736 EPI #: Se
+| } ia #: =: 1227293212 Pt Class: OUTPATIENT
+'
+LS
+i |
+_ & ACC: 57363740 EXAM: XR BONE DENSITY AXIAL
+i ok " ;
+- PROCEDURE DATE: 06/29/2022 |
+|
+, INTERPRETATION: CLINICAL INDICATION: 81-year-old male patient for evaluation of bone
+i | mineralization. Screening for creme
+A |
+| { i
+: | \ Thank you for referring your patient for bone densitometry on the HOLOGIC machine. The results
+i
+| | are expressed as a T-score, or the standard deviation from the mean young normal value, which is
+| the basis for the WHO diagnostic criteria fo bone density.
+| | COMPARISON: None. ; |
+boy
+j RESULTS: |
+| | i |
+| Spine: 1.2, normal. |
+| Femoral neck: Right -2.0, osteopenia. '
+' Total hip: Right -2.3, osteopenia.
+' IMPRESSION: Osteopenia. ,
+| i H
+H i}
+i FRACTURE RISK: Using the FRAX 10 year fracture risk ‘Mraulator the patient's ten-year risk of any
+fracture is 9.4% and the patient's risk of hip fracture is 3.9%. Additional risk factors used in the
+| FRAX calculation: None. i | |
+: i a
+| TREATMENT RECOMMENDATIONS: Based on NOF treatment guidelines medical therapy is
+| recommended at this time. { |
+4
+| All treatment decisions require clinical judgment and consideration of individual patient factors,
+| including patient preferences, comorbidities, previous drug use, risk factors not captured in the FRAX
+! + model (e.g. frailty, falls, Vitamin D deficiency, increased bone turnover, interval significant decline in
+bone density) and possible under or over estimation of fracture tisk by FRAX.
+; \
+a
+Patient: ns MAN:'S6736 Patitnt #: 1227293212 Proc Date: 06/29/2022 Oid #: 90014
+aluation Warning : The document was created with SpirelPDF for .NET.
+fi
+; NORTHWELL HEALTH
+—_ eo eee
+fy .
+Northwell Imaging at Glen Cove
+: 10 Medical Plaza - Suite 106 FN, New York 11542 Phone: i. ia
+; it i
+) i An Extension of Glen Cove Hospital
+i .
+In addition the NOF Guide recommends th t FDA-approved medical therapies be considered in
+: | postmenopausal woman and men age >= 50 years with a:
+| “hip or vertebral (clinical or morphometric) fracture,
+|  * T-score of <=-2.5 at the spine or hip. | |
+| * 10 years fracture probability by FRAX of >= 3.0% for hip fracture or >= 20% for major osteoporotic
+; ‘fracture. | | | :
+f : i)
+: '
+| FOLLOW-UP: A repeat examination is recommended bn 2 years,
+q | ‘ | \
+| | --- End of Report ---
+} i,
+1
+. il
+EEE, Attending Radiologist |
+"This document has been electronically signed, Jun 29 2022 9:10AM :
+i
+| |
+to: :
+i { i
+Hy
+| |
+J : |
+, |
+: . t
+} |
+i}
+\ | i
+. 4
+| f
+| | | |
+4
+i
+. 4 i ;
+| | : |
+Fee
+Patient: i, as * MRN: 56736 Patient #; 1227293212 Proc Date: 06/29/2022 Ord #: 9001
